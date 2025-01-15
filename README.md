@@ -118,7 +118,7 @@ The data schema defines the structure of my marketplace. It includes the followi
 
 ---
 
-## **Woek Flow chart**
+## **Work Flow chart**
 The flowchart visualizes the connections between them:
 
 
