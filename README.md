@@ -4,7 +4,7 @@ Welcome to my **Day 1** submission for the **Marketplace Builder Hackathon 2025*
 
 ---
 ## **Download the PDF**
-For a detailed overview of my Day 1 work, download the PDF here:  
+For a detailed overview of my Day 1 work with # **paper and pencil in detail** , download the PDF here:  
 [Download PDF](./pdf24_merged%20(1).pdf)
 
 
